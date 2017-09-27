@@ -1,6 +1,7 @@
 # libminecraftpe
 
-Disassembly of libminecraftpe.so so you don't have to waste your own time doing it.
+Decompilation of libminecraftpe.so so you don't have to waste your own time doing it.
+**I will only update the source when a protocol change has occured**
 
 ### Please visit the [releases](https://github.com/SupremeMortal/libminecraftpe/releases) page for downloads
 
